@@ -1,0 +1,15 @@
+#profilePhoto{
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+#experience table th{
+    text-align: left;
+    padding: 0px 25px 0px 0px;
+}
+
+#experience table td{
+    text-align: left;
+    padding: 0px 25px 0px 0px;
+}
+
